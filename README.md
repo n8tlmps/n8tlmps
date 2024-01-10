@@ -32,4 +32,5 @@ Here are some ideas to get you started:
     <li>Google Advanced Data Analytics Certificate
     <li>SQL for Data Science Certificate
   </ul>
+</div>
 
