@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Nathaniel! 👋</h1>
+<h1>Hi, I'm Nate! 👋</h1>
 
 <div class="section">
   
