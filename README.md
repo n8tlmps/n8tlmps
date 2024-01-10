@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 <h1>Hi, I'm Nathaniel! 👋</h1>
 
-👨‍💻 Projects:
+<div class="section">
+  
+  <h2>👨‍💻 Projects:</h2>
   Healthcare Stock Market Analysis
   Health Insurance Premium Analysis
   Credit Risk Assessment
