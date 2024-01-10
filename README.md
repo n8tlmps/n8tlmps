@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Nathaniel! 👋
+<h1>Hi, I'm Nathaniel! 👋</h1>
 
 👨‍💻 Projects:
   Healthcare Stock Market Analysis
