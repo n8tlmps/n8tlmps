@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </ul>
  </div>
 
-<div class="section:>
+<div class="section">
   
   <h2>🎖️ Certifications:</h2>
   <ul>
