@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
   <h2>🎖️ Certifications:</h2>
   <p>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FCQ3JKKAT87Z">Google Advanced Data Analytics Certificate</a>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FCQ3JKKAT87Z">Google Advanced Data Analytics Certificate</a>;
     <a href="https://www.coursera.org/account/accomplishments/certificate/VLU5YH8582HS">SQL for Data Science</a>
   </p>
 </div>
