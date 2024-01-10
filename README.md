@@ -23,9 +23,13 @@ Here are some ideas to get you started:
     <li>Health Insurance Premium Analysis
     <li>Credit Risk Assessment
   </ul>
- 
+ </div>
+
+<div class="section:>
   
-🎖️ Certifications:
-  Google Advanced Data Analytics Certificate
-  SQL for Data Science Certificate
+  <h2>🎖️ Certifications:</h2>
+  <ul>
+    <li>Google Advanced Data Analytics Certificate
+    <li>SQL for Data Science Certificate
+  </ul>
 
