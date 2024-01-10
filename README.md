@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 <div class="section">
   
   <h2>🎖️ Certifications:</h2>
-  <ul>
-    <li>Google Advanced Data Analytics Certificate
-    <li>SQL for Data Science Certificate
-  </ul>
+  <p>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FCQ3JKKAT87Z">Google Advanced Data Analytics Certificate</a>
+  </p>
 </div>
 
