@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <div class="section">
   
   <h2>👨‍💻 Projects:</h2>
-  <ul>
-    <li>Healthcare Stock Market Analysis
-    <li>Health Insurance Premium Analysis
-    <li>Credit Risk Assessment
-  </ul>
+  <p>
+    <a href="https://public.tableau.com/app/profile/nate.talampas/viz/HealthStockMarket/Dashboard1">Healthcare Stock Market Analysis</a><br>
+    <a href="https://github.com/n8tmps/insurance-premium">Health Insurance Premium Analysis</a><br>
+    <a href="https://github.com/n8tmps/credit-risk-assessment">Credit Risk Assessment</a><br>
+  </p>
  </div>
 
 <div class="section">
