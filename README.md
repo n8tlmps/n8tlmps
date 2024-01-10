@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <div class="section">
   
   <h2>👨‍💻 Projects:</h2>
-  Healthcare Stock Market Analysis
-  Health Insurance Premium Analysis
-  Credit Risk Assessment
+  <ul>
+    <li>Healthcare Stock Market Analysis
+    <li>Health Insurance Premium Analysis
+    <li>Credit Risk Assessment
+  </ul>
+ 
   
 🎖️ Certifications:
   Google Advanced Data Analytics Certificate
