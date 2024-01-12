@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,6 +24,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/n8tmps/credit-risk-assessment">Credit Risk Assessment</a><br>
   </p>
  </div>
+
+<div class="section">
+  <h2> 🔭 I’m currently working on ...</h2>
+    <p> Medicare - Medicaid Data Analysis</p>
+</div>
 
 <div class="section">
   
