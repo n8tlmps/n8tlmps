@@ -26,11 +26,6 @@ Here are some ideas to get you started:
  </div>
 
 <div class="section">
-  <h2> 🔭 I’m currently working on ...</h2>
-    <p> Medicare - Medicaid Data Analysis</p>
-</div>
-
-<div class="section">
   
   <h2>🎖️ Certifications:</h2>
   <p>
