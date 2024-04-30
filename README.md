@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <h2>🌱 I’m currently working on:</h2>
   <p>
     <a>Modeling Survival of Patients with Cirrhosis</a><br>
+    <a>Multivariate Analysis on Housing Data</a><br>
   </p>
 </div>
   
