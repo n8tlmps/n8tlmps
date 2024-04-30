@@ -26,6 +26,13 @@ Here are some ideas to get you started:
  </div>
 
 <div class="section">
+  <h2>🌱 I’m currently workign on:</h2>
+  <p>
+    <a>Modeling Survival of Patients with Cirrhosis</a><br>
+  </p>
+</div>
+  
+<div class="section">
   
   <h2>🎖️ Certifications:</h2>
   <p>
