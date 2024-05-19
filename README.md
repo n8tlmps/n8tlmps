@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <h2>👨‍💻 Projects:</h2>
   <p>
     <a href="https://github.com/n8tmps/heathcare-stock">Healthcare Stock Market Analysis</a><br>
+    <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
     <a href="https://github.com/n8tmps/insurance-premium">Health Insurance Premium Analysis</a><br>
     <a href="https://github.com/n8tmps/credit-risk-assessment">Credit Risk Assessment</a><br>
-    <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
   </p>
  </div>
 
