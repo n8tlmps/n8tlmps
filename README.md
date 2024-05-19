@@ -22,13 +22,13 @@ Here are some ideas to get you started:
     <a href="https://github.com/n8tmps/heathcare-stock">Healthcare Stock Market Analysis</a><br>
     <a href="https://github.com/n8tmps/insurance-premium">Health Insurance Premium Analysis</a><br>
     <a href="https://github.com/n8tmps/credit-risk-assessment">Credit Risk Assessment</a><br>
+    <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
   </p>
  </div>
 
 <div class="section">
   <h2>🌱 I’m currently working on:</h2>
   <p>
-    <a>Modeling Survival of Patients with Cirrhosis</a><br>
     <a>Multivariate Analysis on Housing Data</a><br>
   </p>
 </div>
