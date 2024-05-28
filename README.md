@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <h2>🌱 I’m currently working on:</h2>
   <p>
     <a>Multivariate Analysis on Housing Data</a><br>
+    <a>Medicare Spending Data Analysis</a>
   </p>
 </div>
   
