@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   
   <h2>👨‍💻 Projects:</h2>
   <p>
+    <a href="https://github.com/n8tmps/medicare-spending"> Medicare Spending Data Analysis</a><br>
     <a href="https://github.com/n8tmps/heathcare-stock">Healthcare Stock Market Analysis</a><br>
     <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
     <a href="https://github.com/n8tmps/insurance-premium">Health Insurance Premium Analysis</a><br>
@@ -28,10 +29,7 @@ Here are some ideas to get you started:
 
 <div class="section">
   <h2>🌱 I’m currently working on:</h2>
-  <p>
-    <a>Multivariate Analysis on Housing Data</a><br>
-    <a>Medicare Spending Data Analysis</a>
-  </p>
+  <p>TBA</p>
 </div>
   
 <div class="section">
