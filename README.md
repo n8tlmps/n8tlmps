@@ -21,8 +21,9 @@ Here are some ideas to get you started:
   <p>
     <a href="https://github.com/n8tmps/airbnb-analysis-sd"> San Diego Airbnb Listings Analysis</a><br>
     <a href="https://github.com/n8tmps/medicare-spending"> Medicare Spending Data Analysis</a><br>
-    <a href="https://github.com/n8tmps/heathcare-stock">Healthcare Stock Market Analysis</a><br>
     <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
+    <p>2023</p>
+    <a href="https://github.com/n8tmps/heathcare-stock">Healthcare Stock Market Analysis</a><br>
     <a href="https://github.com/n8tmps/insurance-premium">Health Insurance Premium Analysis</a><br>
     <a href="https://github.com/n8tmps/credit-risk-assessment">Credit Risk Assessment</a><br>
   </p>
