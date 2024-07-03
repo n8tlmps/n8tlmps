@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   
   <h2>👨‍💻 Projects:</h2>
   <p>
+    <p>2024</p>
     <a href="https://github.com/n8tmps/airbnb-analysis-sd"> San Diego Airbnb Listings Analysis</a><br>
     <a href="https://github.com/n8tmps/medicare-spending"> Medicare Spending Data Analysis</a><br>
     <a href="https://github.com/n8tmps/cirrhosis-survival-analysis">Modeling Survival of Patients with Cirrhosis</a><br>
