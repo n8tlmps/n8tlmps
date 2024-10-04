@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 
 <div class="section">
   <h2>🌱 I’m currently working on:</h2>
-  <p>Neural Networks and Deep Learning</p>
-  <p>Data Informatics</p>
+  <p>
+    <li>Neural Networks and Deep Learning</li>
+    <li>Data Informatics</li>
+  </p>
 </div>
   
 <div class="section">
