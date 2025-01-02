@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <div class="section">
   <h2>🌱 I’m currently working on:</h2>
   <p>
-    <li>Neural Networks and Deep Learning</li>
-    <li>Data Informatics</li>
-    <li>Statistical Inference</li>
+    <li>Numerical Analysis</li>
+    <li>Regression Analysis</li>
+    <li>Ordinary Differential Equations</li>
   </p>
 </div>
   
