@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <p>
     <li>Numerical Analysis</li>
     <li>Regression Analysis</li>
-    <li>Ordinary Differential Equations</li>
   </p>
 </div>
   
