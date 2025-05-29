@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <h2>🌱 I’m currently working on:</h2>
   <p>
     <li>Time Series Analysis</li>
-    <li></li>
+    <li>Machine Learning</li>
   </p>
 </div>
   
